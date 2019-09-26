@@ -4,6 +4,7 @@
   "description": "An example of JavaScript code protection",
   "main": "index.js",
   "scripts": {
+    "obfuscate": "javascript-obfuscator index.js --string-array-encoding rc4",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

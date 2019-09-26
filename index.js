@@ -1,1 +1,5 @@
-console.log('我的愿望是世界和平。')
+console.log("以下是价值千万的代码:");
+var a = 1;
+var b = 1;
+var c = a + b;
+console.log("1 + 1 = " + c)
