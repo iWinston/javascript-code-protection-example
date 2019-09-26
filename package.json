@@ -7,6 +7,8 @@
     "obfuscate": "javascript-obfuscator index.js --string-array-encoding rc4",
     "bytenode": "bytenode --compile index-obfuscated.js",
     "bytenode:run": "bytenode index-obfuscated.js",
+    "nodec": "nodec build.js --skip-npm-install",
+    "build": "npm run obfuscate && npm run bytenode && npm run nodec",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
