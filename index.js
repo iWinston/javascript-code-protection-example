@@ -1,4 +1,4 @@
-console.log("以下是价值千万的代码:");
+console.log("以下是价值上千万的代码:");
 var a = 1;
 var b = 1;
 var c = a + b;
