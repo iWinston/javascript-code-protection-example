@@ -13,5 +13,5 @@ This repository contains an example of JavaScript code protection using javascri
 - `npm run obfuscate`: obfuscate the `index.js` to `index-obfuscated.js`
 - `npm run bytenode`: compile the `index-obfuscated.js` to `index-obfuscated.jsc`
 - `npm run bytenode:run`: run the `index-obfuscated.jsc`
-- `npm run nodec`: Package your Node.js project
-- `npm run build`: Package your Node.js project into an executable that is obfuscated and Compiled
+- `npm run nodec`: package your Node.js project
+- `npm run build`: package your Node.js project into an executable that is obfuscated and Compiled
