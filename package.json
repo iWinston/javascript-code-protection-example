@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/iWinston/javascript-code-protection-example/issues"
   },
-  "homepage": "https://github.com/iWinston/javascript-code-protection-example#readme"
+  "homepage": "https://github.com/iWinston/javascript-code-protection-example#readme",
+  "devDependencies": {
+    "bytenode": "^1.1.1",
+    "javascript-obfuscator": "^0.18.1"
+  }
 }
