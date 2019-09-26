@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "obfuscate": "javascript-obfuscator index.js --string-array-encoding rc4",
+    "bytenode": "bytenode --compile index-obfuscated.js",
+    "bytenode:run": "bytenode index-obfuscated.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
