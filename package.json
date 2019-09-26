@@ -20,7 +20,7 @@
     "code protection"
   ],
   "author": "Winston Lee",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/iWinston/javascript-code-protection-example/issues"
   },
