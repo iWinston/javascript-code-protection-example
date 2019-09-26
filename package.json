@@ -1,0 +1,23 @@
+{
+  "name": "javascript-code-protection-example",
+  "version": "0.0.1",
+  "description": "An example of JavaScript code protection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iWinston/javascript-code-protection-example.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "code protection"
+  ],
+  "author": "Winston Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iWinston/javascript-code-protection-example/issues"
+  },
+  "homepage": "https://github.com/iWinston/javascript-code-protection-example#readme"
+}
